@@ -7,7 +7,7 @@ import os
 import numpy as np
 from astropy.io import ascii
 import sys
-sys.path.append('/home/adams/altadata')
+#sys.path.append('/home/adams/altadata')
 import apercal
 import casacore.tables as pt
 import matplotlib.pyplot as plt
